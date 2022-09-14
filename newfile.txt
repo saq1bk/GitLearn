@@ -1,0 +1,3 @@
+This file is created at the rebase branch
+
+The purpose of creating file is to check the git rebase command
